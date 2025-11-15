@@ -31,6 +31,4 @@ This project covers core front-end concepts, including:
 
 ### CSS
 * Flexbox layout
-* Responsive thumbnail grid
-* Modal design with scrollable content
 * Consistent styling and spacing
